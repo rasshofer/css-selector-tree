@@ -1,6 +1,6 @@
 {
   "name": "css-selector-tree",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small helper to split CSS selectors into subjects and conditions",
   "author": {
     "name": "Thomas Rasshofer",
